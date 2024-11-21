@@ -1,4 +1,4 @@
-## DISLAIMER
+## DISCLAIMER
 
 This document was quickly written to assist the evaluators of this BSQ during my 42 piscine. It contains mistakes and inaccuracies.
 Additionally, the code was written by two coding beginners, so errors and a lack of rigor in the code are to be expected while reading it.
