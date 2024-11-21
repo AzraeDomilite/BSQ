@@ -1,0 +1,2 @@
+# BSQ
+BSQ wih precomputaion
