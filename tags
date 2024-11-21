@@ -1,0 +1,30 @@
+Mmain	.//srcs/main.c	/^int	main(int argc, char **argv)$/
+allocate_map	.//srcs/t_map.c	/^t_map *allocate_map(int len_x, int len_y)$/
+count_splits	.//srcs/ft_split.c	/^int		count_splits(char **splits)$/
+create_density_map	.//srcs/pnl.c	/^t_map *create_density_map(t_map *task)$/
+debug_create_map_from_str	.//srcs/debug.c	/^t_map *debug_create_map_from_str(char *str, int le/
+debug_print_map	.//srcs/debug.c	/^void debug_print_map(t_map *map)$/
+debug_print_nbr	.//srcs/debug.c	/^void debug_print_nbr(int nbr)$/
+find_solution	.//srcs/pnl.c	/^void	find_solution(t_map *density, t_square *best)/
+free_map	.//srcs/t_map.c	/^void	free_map(t_map *map)$/
+free_on_error	.//srcs/parse_file.c	/^int	free_on_error(void *ptr)$/
+free_splits	.//srcs/ft_split.c	/^void	free_splits(char **splits)$/
+ft_split	.//srcs/ft_split.c	/^char	**ft_split(char *str, char *charset)$/
+ft_strncpy	.//srcs/ft_split.c	/^void	ft_strncpy(char *dest, char *src, int n)$/
+get_best_square	.//srcs/pnl.c	/^void get_best_square(t_map *task, t_square *best)$/
+get_map_value	.//srcs/t_map.c	/^int	get_map_value(t_map *map, int x, int y)$/
+get_obstacles	.//srcs/pnl.c	/^int	get_obstacles(t_map *density, int x, int y, in/
+in_str	.//srcs/ft_split.c	/^int	in_str(char c, char *charset)$/
+next_char_in_charset	.//srcs/ft_split.c	/^int	next_char_in_charset(char *str, char *charset)/
+on_error_free_splits	.//srcs/parse_file.c	/^int	on_error_free_splits(char ***splits)$/
+parse_first_line	.//srcs/parse_file.c	/^int	parse_first_line(char *line, t_brush *charset,/
+parse_line	.//srcs/parse_file.c	/^int	parse_line(char *line, t_map *task, int row_nu/
+print_error	.//srcs/main.c	/^void	print_error()$/
+print_result	.//srcs/main.c	/^void	print_result(t_map *task, t_brush charset, t_/
+read_task	.//srcs/parse_file.c	/^int	read_task(int fd, t_map *task, t_brush *charse/
+set_map_value	.//srcs/t_map.c	/^void	set_map_value(t_map *map, int x, int y, int v/
+set_splits	.//srcs/ft_split.c	/^void	set_splits(char **tab, char *str, char *chars/
+set_square	.//srcs/t_square.c	/^void	set_square(t_square *best, int x, int y, int /
+t_brush	.//includes/t_brush.h	/^} t_brush;$/
+t_map	.//includes/t_map.h	/^} t_map;$/
+t_square	.//includes/t_square.h	/^} t_square;$/
