@@ -4,6 +4,8 @@ This document was quickly written to assist the evaluators of this BSQ during my
 Additionally, the code was written by two coding beginners, so errors and a lack of rigor in the code are to be expected while reading it.
 Any corrections are welcome.
 
+If you are using a dark theme, the formulas may be hard to read. Click on them!
+
 ## Step one : Precomputation
 
 This is our precomputing formula:
