@@ -1,8 +1,12 @@
 ## DISLAIMER
 
-Ce document a ete redige rapidement pour aider les correcteurs de ce BSQ lors de ma piscine 42. il contient des fautes et des imprecisions.
-Egalement, le code a ete ecrit par deux debutants en code, des
+This document was quickly written to assist the evaluators of this BSQ during my 42 piscine. It contains mistakes and inaccuracies.
+Additionally, the code was written by two coding beginners, so errors and a lack of rigor in the code are to be expected while reading it.
+Any corrections are welcome.
 
+If you are using a dark theme, the formulas may be hard to read. Click on them!
+
+PDF version is available.
 ## Step one : Precomputation
 
 This is our precomputing formula:
