@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   parse_file.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: baschnit <baschnit@student.42lausanne.ch>  +#+  +:+       +#+        */
+/*   By: blucken <blucken@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/07/09 12:05:49 by baschnit          #+#    #+#             */
-/*   Updated: 2024/07/10 20:01:18 by baschnit         ###   ########.fr       */
+/*   Created: 2025/07/16 16:13:58 by blucken           #+#    #+#             */
+/*   Updated: 2025/07/16 16:15:05 by blucken          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,32 @@
 #include <unistd.h>
 #include <stdlib.h>
 
-#define BUFFER_SIZE (int) 7e6
+#define BUFFER_SIZE (int) 5000
+
+char	*ft_strjoin(char *s1, char *s2)
+{
+	char	*target;
+	char	*start;
+
+	target = malloc(sizeof(char) * (ft_strlen(s1) + ft_strlen(s2) + 1));
+	start = target;
+	if (target == NULL)
+		return (NULL);
+	while (*s1)
+	{
+		*target = *s1;
+		target++;
+		s1++;
+	}
+	while (*s2)
+	{
+		*target = *s2;
+		target++;
+		s2++;
+	}
+	*target = '\0';
+	return (start);
+}
 
 int	on_error_free_splits(char **splits)
 {
@@ -96,13 +121,22 @@ int	read_task(int fd, t_map *task, t_brush *charset)
 	char	**lines;
 	char	**lines_start;
 	int		rows;
+	int bytes_read = -1;
+	char *result = malloc(1);
 
 	rows = 0;
-	rows = read(fd, buffer, BUFFER_SIZE - 1);
-	if (rows == -1 || rows == BUFFER_SIZE - 1)
-		return (-1);
-	buffer[rows] = '\0';
-	lines = ft_split(buffer, "\n");
+	*result = 0;
+	while (bytes_read)
+	{
+		bytes_read = read(fd, buffer, BUFFER_SIZE - 1);
+		result += bytes_read;
+		buffer[bytes_read] = '\0';
+		char *tmp;
+		tmp = result;
+		result = ft_strjoin(result, buffer);
+		free(tmp);
+	}
+	lines = ft_split(result, "\n");
 	rows = count_splits(lines) - 1;
 	if (rows <= 0)
 		return (on_error_free_splits(lines));

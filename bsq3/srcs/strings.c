@@ -3,12 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   strings.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: baschnit <baschnit@student.42lausanne.ch>  +#+  +:+       +#+        */
+/*   By: blucken <blucken@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/07/09 20:12:48 by baschnit          #+#    #+#             */
-/*   Updated: 2024/07/10 14:13:28 by baschnit         ###   ########.fr       */
+/*   Created: 2025/07/16 16:12:03 by blucken           #+#    #+#             */
+/*   Updated: 2025/07/16 16:12:38 by blucken          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include <stdlib.h>
 
 int	in_str(char c, char *charset)
 {
@@ -47,7 +49,7 @@ int	next_char_in_charset(char *str, char *charset)
 		index++;
 	}
 	return (index);
-}	
+}
 
 int	ft_strlen(char *str)
 {
@@ -61,3 +63,4 @@ int	ft_strlen(char *str)
 	}
 	return (i);
 }
+
