@@ -5,7 +5,7 @@ SOURCES = debug.c pnl.c t_map.c t_square.c parse_file.c ft_split.c strings.c mai
 SOURCE_FILES = $(addprefix $(DIR_SOURCE)/, $(SOURCES))
 OBJECT_FILES = $(addprefix $(DIR_OBJECT)/, $(patsubst %.c, %.o, $(SOURCES)))
 EXECUTABLE=bsq
-COMPILE=cc -Werror -Wextra -Wall -fsanitize=address -g
+COMPILE=cc -Werror -Wextra -Wall
 
 all: $(EXECUTABLE)
 
