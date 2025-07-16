@@ -1,0 +1,1278 @@
+# BSQ Benchmark Results - 20250716_164955
+# Format: filename,map_width,map_height,map_size,parse_time(s),algo_time(s),total_time(s)
+filename,map_width,map_height,map_size,parse_time,algo_time,total_time
+BENCHMARK: map_10x10_1_density1.bsq - Parse: 0.000011s, Algo: 0.000006s, Total: 0.000017s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_1_density5.bsq - Parse: 0.000011s, Algo: 0.000005s, Total: 0.000016s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_10_density4.bsq - Parse: 0.000009s, Algo: 0.000005s, Total: 0.000014s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_10_density5.bsq - Parse: 0.000010s, Algo: 0.000005s, Total: 0.000015s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_100_density5.bsq - Parse: 0.000009s, Algo: 0.000005s, Total: 0.000014s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_100_density7.bsq - Parse: 0.000009s, Algo: 0.000005s, Total: 0.000014s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_11_density6.bsq - Parse: 0.000012s, Algo: 0.000005s, Total: 0.000017s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_11_density8.bsq - Parse: 0.000010s, Algo: 0.000005s, Total: 0.000015s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_12_density1.bsq - Parse: 0.000012s, Algo: 0.000004s, Total: 0.000016s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_12_density6.bsq - Parse: 0.000009s, Algo: 0.000004s, Total: 0.000013s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_13_density5.bsq - Parse: 0.000013s, Algo: 0.000004s, Total: 0.000017s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_13_density7.bsq - Parse: 0.000008s, Algo: 0.000005s, Total: 0.000013s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_14_density4.bsq - Parse: 0.000007s, Algo: 0.000005s, Total: 0.000012s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_14_density6.bsq - Parse: 0.000011s, Algo: 0.000004s, Total: 0.000015s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_15_density4.bsq - Parse: 0.000008s, Algo: 0.000005s, Total: 0.000013s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_15_density5.bsq - Parse: 0.000009s, Algo: 0.000005s, Total: 0.000014s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_16_density4.bsq - Parse: 0.000016s, Algo: 0.000004s, Total: 0.000020s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_16_density9.bsq - Parse: 0.000009s, Algo: 0.000007s, Total: 0.000016s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_17_density6.bsq - Parse: 0.000008s, Algo: 0.000004s, Total: 0.000012s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_17_density7.bsq - Parse: 0.000007s, Algo: 0.000004s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_18_density3.bsq - Parse: 0.000011s, Algo: 0.000004s, Total: 0.000015s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_18_density4.bsq - Parse: 0.000007s, Algo: 0.000003s, Total: 0.000010s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_19_density3.bsq - Parse: 0.000006s, Algo: 0.000004s, Total: 0.000010s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_19_density4.bsq - Parse: 0.000007s, Algo: 0.000004s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_2_density2.bsq - Parse: 0.000007s, Algo: 0.000004s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_2_density7.bsq - Parse: 0.000007s, Algo: 0.000004s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_20_density5.bsq - Parse: 0.000007s, Algo: 0.000004s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_21_density2.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_21_density5.bsq - Parse: 0.000008s, Algo: 0.000003s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_22_density4.bsq - Parse: 0.000008s, Algo: 0.000003s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_22_density8.bsq - Parse: 0.000007s, Algo: 0.000003s, Total: 0.000010s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_23_density4.bsq - Parse: 0.000007s, Algo: 0.000003s, Total: 0.000010s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_23_density7.bsq - Parse: 0.000007s, Algo: 0.000004s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_24_density4.bsq - Parse: 0.000007s, Algo: 0.000003s, Total: 0.000010s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_24_density5.bsq - Parse: 0.000007s, Algo: 0.000003s, Total: 0.000010s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_25_density5.bsq - Parse: 0.000006s, Algo: 0.000004s, Total: 0.000010s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_25_density6.bsq - Parse: 0.000009s, Algo: 0.000003s, Total: 0.000012s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_26_density6.bsq - Parse: 0.000006s, Algo: 0.000004s, Total: 0.000010s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_26_density7.bsq - Parse: 0.000006s, Algo: 0.000004s, Total: 0.000010s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_27_density1.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_27_density6.bsq - Parse: 0.000006s, Algo: 0.000004s, Total: 0.000010s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_28_density5.bsq - Parse: 0.000011s, Algo: 0.000004s, Total: 0.000015s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_28_density8.bsq - Parse: 0.000007s, Algo: 0.000004s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_29_density2.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_29_density9.bsq - Parse: 0.000007s, Algo: 0.000004s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_3_density1.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_3_density9.bsq - Parse: 0.000006s, Algo: 0.000004s, Total: 0.000010s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_30_density4.bsq - Parse: 0.000007s, Algo: 0.000003s, Total: 0.000010s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_30_density9.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_31_density5.bsq - Parse: 0.000006s, Algo: 0.000004s, Total: 0.000010s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_31_density8.bsq - Parse: 0.000007s, Algo: 0.000004s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_32_density2.bsq - Parse: 0.000008s, Algo: 0.000003s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_32_density7.bsq - Parse: 0.000007s, Algo: 0.000003s, Total: 0.000010s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_33_density1.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_33_density8.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_34_density4.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_34_density5.bsq - Parse: 0.000005s, Algo: 0.000004s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_35_density2.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_35_density6.bsq - Parse: 0.000009s, Algo: 0.000003s, Total: 0.000012s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_36_density1.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_36_density3.bsq - Parse: 0.000006s, Algo: 0.000002s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_37_density5.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_38_density8.bsq - Parse: 0.000006s, Algo: 0.000004s, Total: 0.000010s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_38_density9.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_39_density5.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_4_density3.bsq - Parse: 0.000009s, Algo: 0.000003s, Total: 0.000012s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_4_density5.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_40_density2.bsq - Parse: 0.000007s, Algo: 0.000004s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_41_density6.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_41_density9.bsq - Parse: 0.000009s, Algo: 0.000004s, Total: 0.000013s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_42_density1.bsq - Parse: 0.000007s, Algo: 0.000003s, Total: 0.000010s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_42_density2.bsq - Parse: 0.000009s, Algo: 0.000003s, Total: 0.000012s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_43_density1.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_43_density6.bsq - Parse: 0.000005s, Algo: 0.000004s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_44_density6.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_44_density9.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_45_density5.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_45_density8.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_46_density6.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_46_density7.bsq - Parse: 0.000022s, Algo: 0.000004s, Total: 0.000026s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_47_density6.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_47_density9.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_48_density9.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_49_density3.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_49_density9.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_5_density2.bsq - Parse: 0.000008s, Algo: 0.000003s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_5_density5.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_50_density6.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_50_density8.bsq - Parse: 0.000005s, Algo: 0.000004s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_51_density2.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_51_density6.bsq - Parse: 0.000005s, Algo: 0.000004s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_52_density1.bsq - Parse: 0.000006s, Algo: 0.000002s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_52_density7.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_53_density2.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_53_density4.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_54_density2.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_54_density3.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_55_density7.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_55_density8.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_56_density1.bsq - Parse: 0.000009s, Algo: 0.000002s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_56_density5.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_57_density5.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_57_density6.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_58_density4.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_58_density6.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_59_density2.bsq - Parse: 0.000006s, Algo: 0.000002s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_59_density7.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_6_density8.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_6_density9.bsq - Parse: 0.000005s, Algo: 0.000004s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_60_density4.bsq - Parse: 0.000006s, Algo: 0.000002s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_60_density5.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_61_density1.bsq - Parse: 0.000009s, Algo: 0.000003s, Total: 0.000012s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_61_density8.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_62_density5.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_62_density6.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_63_density4.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_63_density7.bsq - Parse: 0.000010s, Algo: 0.000003s, Total: 0.000013s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_64_density1.bsq - Parse: 0.000005s, Algo: 0.000004s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_65_density4.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_65_density9.bsq - Parse: 0.000006s, Algo: 0.000004s, Total: 0.000010s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_66_density4.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_67_density1.bsq - Parse: 0.000005s, Algo: 0.000002s, Total: 0.000007s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_68_density9.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_69_density1.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_69_density3.bsq - Parse: 0.000012s, Algo: 0.000003s, Total: 0.000015s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_7_density3.bsq - Parse: 0.000005s, Algo: 0.000004s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_7_density9.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_70_density1.bsq - Parse: 0.000009s, Algo: 0.000003s, Total: 0.000012s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_70_density7.bsq - Parse: 0.000007s, Algo: 0.000004s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_71_density3.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_71_density6.bsq - Parse: 0.000006s, Algo: 0.000002s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_72_density4.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_72_density9.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_73_density2.bsq - Parse: 0.000006s, Algo: 0.000002s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_74_density4.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_74_density9.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_75_density2.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_75_density9.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_76_density3.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_76_density9.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_77_density3.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_77_density8.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_78_density4.bsq - Parse: 0.000006s, Algo: 0.000002s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_78_density8.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_79_density6.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_79_density8.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_8_density2.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_8_density7.bsq - Parse: 0.000008s, Algo: 0.000003s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_80_density1.bsq - Parse: 0.000006s, Algo: 0.000002s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_80_density7.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_81_density1.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_81_density7.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_82_density1.bsq - Parse: 0.000005s, Algo: 0.000002s, Total: 0.000007s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_82_density2.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_83_density6.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_83_density9.bsq - Parse: 0.000009s, Algo: 0.000004s, Total: 0.000013s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_84_density2.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_84_density8.bsq - Parse: 0.000009s, Algo: 0.000003s, Total: 0.000012s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_85_density2.bsq - Parse: 0.000011s, Algo: 0.000003s, Total: 0.000014s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_85_density5.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_86_density1.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_86_density4.bsq - Parse: 0.000005s, Algo: 0.000004s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_87_density3.bsq - Parse: 0.000008s, Algo: 0.000003s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_87_density4.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_88_density1.bsq - Parse: 0.000005s, Algo: 0.000002s, Total: 0.000007s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_88_density7.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_89_density1.bsq - Parse: 0.000005s, Algo: 0.000002s, Total: 0.000007s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_89_density7.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_9_density3.bsq - Parse: 0.000005s, Algo: 0.000004s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_9_density4.bsq - Parse: 0.000008s, Algo: 0.000003s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_90_density4.bsq - Parse: 0.000006s, Algo: 0.000002s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_90_density6.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_91_density1.bsq - Parse: 0.000006s, Algo: 0.000002s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_91_density5.bsq - Parse: 0.000008s, Algo: 0.000003s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_92_density6.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_93_density6.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_93_density7.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_94_density1.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_94_density6.bsq - Parse: 0.000009s, Algo: 0.000003s, Total: 0.000012s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_95_density2.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_95_density6.bsq - Parse: 0.000009s, Algo: 0.000003s, Total: 0.000012s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_96_density4.bsq - Parse: 0.000009s, Algo: 0.000003s, Total: 0.000012s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_97_density4.bsq - Parse: 0.000006s, Algo: 0.000003s, Total: 0.000009s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_97_density9.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_98_density2.bsq - Parse: 0.000008s, Algo: 0.000003s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_98_density7.bsq - Parse: 0.000007s, Algo: 0.000004s, Total: 0.000011s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_99_density1.bsq - Parse: 0.000005s, Algo: 0.000003s, Total: 0.000008s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_10x10_99_density8.bsq - Parse: 0.000009s, Algo: 0.000003s, Total: 0.000012s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_1_density4.bsq - Parse: 0.000180s, Algo: 0.000185s, Total: 0.000365s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_1_density6.bsq - Parse: 0.000209s, Algo: 0.000206s, Total: 0.000415s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_10_density3.bsq - Parse: 0.000206s, Algo: 0.000218s, Total: 0.000424s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_10_density6.bsq - Parse: 0.000185s, Algo: 0.000192s, Total: 0.000377s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_100_density3.bsq - Parse: 0.000198s, Algo: 0.000201s, Total: 0.000399s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_100_density4.bsq - Parse: 0.000176s, Algo: 0.000192s, Total: 0.000368s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_11_density1.bsq - Parse: 0.000175s, Algo: 0.000176s, Total: 0.000351s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_11_density7.bsq - Parse: 0.000177s, Algo: 0.000193s, Total: 0.000370s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_12_density1.bsq - Parse: 0.000213s, Algo: 0.000196s, Total: 0.000409s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_13_density3.bsq - Parse: 0.000177s, Algo: 0.000185s, Total: 0.000362s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_13_density9.bsq - Parse: 0.000178s, Algo: 0.000197s, Total: 0.000375s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_14_density3.bsq - Parse: 0.000180s, Algo: 0.000208s, Total: 0.000388s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_14_density4.bsq - Parse: 0.000177s, Algo: 0.000200s, Total: 0.000377s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_15_density3.bsq - Parse: 0.000187s, Algo: 0.000187s, Total: 0.000374s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_15_density6.bsq - Parse: 0.000176s, Algo: 0.000190s, Total: 0.000366s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_16_density1.bsq - Parse: 0.000176s, Algo: 0.000171s, Total: 0.000347s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_16_density4.bsq - Parse: 0.000180s, Algo: 0.000188s, Total: 0.000368s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_17_density4.bsq - Parse: 0.000195s, Algo: 0.000186s, Total: 0.000381s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_18_density4.bsq - Parse: 0.000181s, Algo: 0.000213s, Total: 0.000394s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_18_density5.bsq - Parse: 0.000180s, Algo: 0.000186s, Total: 0.000366s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_19_density4.bsq - Parse: 0.000188s, Algo: 0.000183s, Total: 0.000371s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_19_density6.bsq - Parse: 0.000176s, Algo: 0.000196s, Total: 0.000372s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_2_density7.bsq - Parse: 0.000178s, Algo: 0.000190s, Total: 0.000368s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_20_density4.bsq - Parse: 0.000176s, Algo: 0.000186s, Total: 0.000362s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_21_density1.bsq - Parse: 0.000175s, Algo: 0.000167s, Total: 0.000342s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_21_density2.bsq - Parse: 0.000198s, Algo: 0.000202s, Total: 0.000400s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_22_density3.bsq - Parse: 0.000186s, Algo: 0.000181s, Total: 0.000367s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_22_density4.bsq - Parse: 0.000214s, Algo: 0.000209s, Total: 0.000423s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_23_density5.bsq - Parse: 0.000184s, Algo: 0.000188s, Total: 0.000372s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_23_density9.bsq - Parse: 0.000186s, Algo: 0.000194s, Total: 0.000380s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_24_density6.bsq - Parse: 0.000176s, Algo: 0.000193s, Total: 0.000369s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_24_density7.bsq - Parse: 0.000181s, Algo: 0.000196s, Total: 0.000377s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_25_density6.bsq - Parse: 0.000207s, Algo: 0.000199s, Total: 0.000406s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_25_density8.bsq - Parse: 0.000180s, Algo: 0.000195s, Total: 0.000375s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_26_density1.bsq - Parse: 0.000182s, Algo: 0.000175s, Total: 0.000357s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_26_density2.bsq - Parse: 0.000178s, Algo: 0.000178s, Total: 0.000356s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_27_density2.bsq - Parse: 0.000174s, Algo: 0.000210s, Total: 0.000384s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_27_density9.bsq - Parse: 0.000181s, Algo: 0.000192s, Total: 0.000373s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_28_density1.bsq - Parse: 0.000201s, Algo: 0.000181s, Total: 0.000382s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_28_density7.bsq - Parse: 0.000176s, Algo: 0.000195s, Total: 0.000371s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_29_density2.bsq - Parse: 0.000179s, Algo: 0.000195s, Total: 0.000374s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_29_density9.bsq - Parse: 0.000177s, Algo: 0.000196s, Total: 0.000373s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_3_density5.bsq - Parse: 0.000176s, Algo: 0.000187s, Total: 0.000363s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_3_density6.bsq - Parse: 0.000176s, Algo: 0.000199s, Total: 0.000375s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_30_density3.bsq - Parse: 0.000179s, Algo: 0.000182s, Total: 0.000361s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_30_density8.bsq - Parse: 0.000203s, Algo: 0.000206s, Total: 0.000409s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_31_density3.bsq - Parse: 0.000176s, Algo: 0.000210s, Total: 0.000386s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_31_density9.bsq - Parse: 0.000182s, Algo: 0.000194s, Total: 0.000376s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_32_density5.bsq - Parse: 0.000186s, Algo: 0.000198s, Total: 0.000384s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_32_density6.bsq - Parse: 0.000207s, Algo: 0.000207s, Total: 0.000414s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_33_density3.bsq - Parse: 0.000179s, Algo: 0.000181s, Total: 0.000360s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_33_density7.bsq - Parse: 0.000184s, Algo: 0.000197s, Total: 0.000381s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_34_density7.bsq - Parse: 0.000179s, Algo: 0.000193s, Total: 0.000372s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_34_density9.bsq - Parse: 0.000177s, Algo: 0.000200s, Total: 0.000377s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_35_density8.bsq - Parse: 0.000176s, Algo: 0.000212s, Total: 0.000388s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_35_density9.bsq - Parse: 0.000181s, Algo: 0.000195s, Total: 0.000376s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_36_density2.bsq - Parse: 0.000194s, Algo: 0.000186s, Total: 0.000380s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_36_density4.bsq - Parse: 0.000192s, Algo: 0.000210s, Total: 0.000402s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_37_density1.bsq - Parse: 0.000178s, Algo: 0.000156s, Total: 0.000334s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_37_density4.bsq - Parse: 0.000179s, Algo: 0.000188s, Total: 0.000367s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_38_density5.bsq - Parse: 0.000185s, Algo: 0.000189s, Total: 0.000374s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_38_density6.bsq - Parse: 0.000175s, Algo: 0.000195s, Total: 0.000370s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_39_density7.bsq - Parse: 0.000176s, Algo: 0.000192s, Total: 0.000368s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_39_density9.bsq - Parse: 0.000176s, Algo: 0.000199s, Total: 0.000375s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_4_density7.bsq - Parse: 0.000206s, Algo: 0.000211s, Total: 0.000417s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_4_density8.bsq - Parse: 0.000177s, Algo: 0.000195s, Total: 0.000372s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_40_density4.bsq - Parse: 0.000177s, Algo: 0.000190s, Total: 0.000367s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_40_density9.bsq - Parse: 0.000203s, Algo: 0.000218s, Total: 0.000421s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_41_density1.bsq - Parse: 0.000187s, Algo: 0.000166s, Total: 0.000353s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_42_density3.bsq - Parse: 0.000175s, Algo: 0.000183s, Total: 0.000358s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_42_density4.bsq - Parse: 0.000175s, Algo: 0.000194s, Total: 0.000369s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_43_density5.bsq - Parse: 0.000201s, Algo: 0.000216s, Total: 0.000417s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_43_density8.bsq - Parse: 0.000176s, Algo: 0.000195s, Total: 0.000371s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_44_density2.bsq - Parse: 0.000175s, Algo: 0.000178s, Total: 0.000353s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_44_density4.bsq - Parse: 0.000175s, Algo: 0.000187s, Total: 0.000362s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_45_density1.bsq - Parse: 0.000178s, Algo: 0.000161s, Total: 0.000339s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_45_density8.bsq - Parse: 0.000177s, Algo: 0.000198s, Total: 0.000375s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_46_density7.bsq - Parse: 0.000181s, Algo: 0.000219s, Total: 0.000400s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_46_density9.bsq - Parse: 0.000176s, Algo: 0.000195s, Total: 0.000371s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_47_density1.bsq - Parse: 0.000175s, Algo: 0.000167s, Total: 0.000342s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_47_density3.bsq - Parse: 0.000176s, Algo: 0.000181s, Total: 0.000357s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_48_density7.bsq - Parse: 0.000176s, Algo: 0.000191s, Total: 0.000367s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_48_density8.bsq - Parse: 0.000180s, Algo: 0.000207s, Total: 0.000387s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_49_density4.bsq - Parse: 0.000175s, Algo: 0.000179s, Total: 0.000354s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_49_density9.bsq - Parse: 0.000199s, Algo: 0.000217s, Total: 0.000416s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_5_density1.bsq - Parse: 0.000197s, Algo: 0.000176s, Total: 0.000373s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_5_density3.bsq - Parse: 0.000175s, Algo: 0.000183s, Total: 0.000358s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_50_density9.bsq - Parse: 0.000177s, Algo: 0.000197s, Total: 0.000374s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_51_density3.bsq - Parse: 0.000185s, Algo: 0.000184s, Total: 0.000369s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_51_density4.bsq - Parse: 0.000176s, Algo: 0.000184s, Total: 0.000360s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_52_density1.bsq - Parse: 0.000194s, Algo: 0.000192s, Total: 0.000386s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_52_density9.bsq - Parse: 0.000188s, Algo: 0.000201s, Total: 0.000389s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_53_density6.bsq - Parse: 0.000177s, Algo: 0.000206s, Total: 0.000383s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_53_density7.bsq - Parse: 0.000176s, Algo: 0.000192s, Total: 0.000368s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_54_density1.bsq - Parse: 0.000175s, Algo: 0.000169s, Total: 0.000344s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_54_density8.bsq - Parse: 0.000187s, Algo: 0.000194s, Total: 0.000381s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_55_density6.bsq - Parse: 0.000176s, Algo: 0.000205s, Total: 0.000381s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_55_density9.bsq - Parse: 0.000208s, Algo: 0.000214s, Total: 0.000422s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_56_density9.bsq - Parse: 0.000181s, Algo: 0.000211s, Total: 0.000392s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_57_density3.bsq - Parse: 0.000185s, Algo: 0.000181s, Total: 0.000366s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_57_density8.bsq - Parse: 0.000177s, Algo: 0.000192s, Total: 0.000369s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_58_density6.bsq - Parse: 0.000175s, Algo: 0.000192s, Total: 0.000367s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_58_density9.bsq - Parse: 0.000176s, Algo: 0.000195s, Total: 0.000371s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_59_density7.bsq - Parse: 0.000176s, Algo: 0.000195s, Total: 0.000371s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_59_density9.bsq - Parse: 0.000181s, Algo: 0.000219s, Total: 0.000400s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_6_density2.bsq - Parse: 0.000253s, Algo: 0.000186s, Total: 0.000439s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_6_density3.bsq - Parse: 0.000177s, Algo: 0.000184s, Total: 0.000361s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_60_density5.bsq - Parse: 0.000176s, Algo: 0.000193s, Total: 0.000369s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_60_density8.bsq - Parse: 0.000181s, Algo: 0.000197s, Total: 0.000378s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_61_density2.bsq - Parse: 0.000187s, Algo: 0.000181s, Total: 0.000368s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_61_density5.bsq - Parse: 0.000182s, Algo: 0.000189s, Total: 0.000371s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_62_density1.bsq - Parse: 0.000188s, Algo: 0.000178s, Total: 0.000366s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_62_density9.bsq - Parse: 0.000180s, Algo: 0.000194s, Total: 0.000374s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_63_density1.bsq - Parse: 0.000187s, Algo: 0.000172s, Total: 0.000359s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_63_density4.bsq - Parse: 0.000176s, Algo: 0.000189s, Total: 0.000365s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_64_density8.bsq - Parse: 0.000179s, Algo: 0.000195s, Total: 0.000374s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_65_density1.bsq - Parse: 0.000207s, Algo: 0.000168s, Total: 0.000375s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_65_density8.bsq - Parse: 0.000177s, Algo: 0.000197s, Total: 0.000374s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_66_density3.bsq - Parse: 0.000179s, Algo: 0.000180s, Total: 0.000359s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_66_density9.bsq - Parse: 0.000183s, Algo: 0.000205s, Total: 0.000388s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_67_density6.bsq - Parse: 0.000184s, Algo: 0.000187s, Total: 0.000371s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_67_density8.bsq - Parse: 0.000187s, Algo: 0.000191s, Total: 0.000378s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_68_density2.bsq - Parse: 0.000215s, Algo: 0.000174s, Total: 0.000389s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_68_density6.bsq - Parse: 0.000181s, Algo: 0.000192s, Total: 0.000373s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_69_density3.bsq - Parse: 0.000176s, Algo: 0.000202s, Total: 0.000378s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_69_density9.bsq - Parse: 0.000180s, Algo: 0.000193s, Total: 0.000373s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_7_density3.bsq - Parse: 0.000183s, Algo: 0.000184s, Total: 0.000367s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_7_density6.bsq - Parse: 0.000183s, Algo: 0.000191s, Total: 0.000374s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_70_density5.bsq - Parse: 0.000203s, Algo: 0.000191s, Total: 0.000394s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_70_density9.bsq - Parse: 0.000178s, Algo: 0.000197s, Total: 0.000375s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_71_density8.bsq - Parse: 0.000180s, Algo: 0.000203s, Total: 0.000383s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_71_density9.bsq - Parse: 0.000188s, Algo: 0.000193s, Total: 0.000381s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_72_density3.bsq - Parse: 0.000180s, Algo: 0.000183s, Total: 0.000363s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_72_density7.bsq - Parse: 0.000180s, Algo: 0.000192s, Total: 0.000372s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_73_density7.bsq - Parse: 0.000203s, Algo: 0.000198s, Total: 0.000401s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_73_density8.bsq - Parse: 0.000186s, Algo: 0.000201s, Total: 0.000387s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_74_density5.bsq - Parse: 0.000180s, Algo: 0.000212s, Total: 0.000392s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_74_density6.bsq - Parse: 0.000180s, Algo: 0.000196s, Total: 0.000376s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_75_density1.bsq - Parse: 0.000175s, Algo: 0.000163s, Total: 0.000338s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_75_density5.bsq - Parse: 0.000176s, Algo: 0.000188s, Total: 0.000364s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_76_density2.bsq - Parse: 0.000175s, Algo: 0.000180s, Total: 0.000355s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_76_density8.bsq - Parse: 0.000184s, Algo: 0.000207s, Total: 0.000391s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_77_density5.bsq - Parse: 0.000177s, Algo: 0.000189s, Total: 0.000366s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_77_density8.bsq - Parse: 0.000184s, Algo: 0.000194s, Total: 0.000378s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_78_density3.bsq - Parse: 0.000184s, Algo: 0.000186s, Total: 0.000370s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_78_density6.bsq - Parse: 0.000176s, Algo: 0.000192s, Total: 0.000368s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_79_density5.bsq - Parse: 0.000183s, Algo: 0.000187s, Total: 0.000370s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_79_density6.bsq - Parse: 0.000187s, Algo: 0.000195s, Total: 0.000382s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_8_density1.bsq - Parse: 0.000182s, Algo: 0.000182s, Total: 0.000364s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_8_density6.bsq - Parse: 0.000176s, Algo: 0.000190s, Total: 0.000366s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_80_density1.bsq - Parse: 0.000178s, Algo: 0.000174s, Total: 0.000352s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_80_density2.bsq - Parse: 0.000175s, Algo: 0.000180s, Total: 0.000355s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_81_density1.bsq - Parse: 0.000197s, Algo: 0.000173s, Total: 0.000370s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_81_density3.bsq - Parse: 0.000177s, Algo: 0.000176s, Total: 0.000353s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_82_density1.bsq - Parse: 0.000175s, Algo: 0.000170s, Total: 0.000345s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_82_density4.bsq - Parse: 0.000182s, Algo: 0.000189s, Total: 0.000371s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_83_density2.bsq - Parse: 0.000175s, Algo: 0.000182s, Total: 0.000357s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_83_density6.bsq - Parse: 0.000206s, Algo: 0.000196s, Total: 0.000402s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_84_density2.bsq - Parse: 0.000179s, Algo: 0.000175s, Total: 0.000354s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_84_density3.bsq - Parse: 0.000183s, Algo: 0.000193s, Total: 0.000376s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_85_density1.bsq - Parse: 0.000185s, Algo: 0.000164s, Total: 0.000349s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_85_density2.bsq - Parse: 0.000179s, Algo: 0.000195s, Total: 0.000374s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_86_density4.bsq - Parse: 0.000175s, Algo: 0.000186s, Total: 0.000361s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_86_density8.bsq - Parse: 0.000183s, Algo: 0.000195s, Total: 0.000378s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_87_density3.bsq - Parse: 0.000177s, Algo: 0.000191s, Total: 0.000368s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_87_density6.bsq - Parse: 0.000186s, Algo: 0.000196s, Total: 0.000382s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_88_density6.bsq - Parse: 0.000183s, Algo: 0.000195s, Total: 0.000378s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_88_density8.bsq - Parse: 0.000177s, Algo: 0.000192s, Total: 0.000369s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_89_density3.bsq - Parse: 0.000182s, Algo: 0.000192s, Total: 0.000374s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_89_density6.bsq - Parse: 0.000194s, Algo: 0.000195s, Total: 0.000389s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_9_density1.bsq - Parse: 0.000197s, Algo: 0.000188s, Total: 0.000385s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_9_density9.bsq - Parse: 0.000196s, Algo: 0.000197s, Total: 0.000393s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_90_density3.bsq - Parse: 0.000189s, Algo: 0.000218s, Total: 0.000407s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_90_density6.bsq - Parse: 0.000192s, Algo: 0.000198s, Total: 0.000390s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_91_density7.bsq - Parse: 0.000183s, Algo: 0.000202s, Total: 0.000385s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_91_density9.bsq - Parse: 0.000181s, Algo: 0.000198s, Total: 0.000379s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_92_density1.bsq - Parse: 0.000189s, Algo: 0.000176s, Total: 0.000365s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_92_density6.bsq - Parse: 0.000184s, Algo: 0.000193s, Total: 0.000377s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_93_density7.bsq - Parse: 0.000199s, Algo: 0.000197s, Total: 0.000396s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_93_density8.bsq - Parse: 0.000195s, Algo: 0.000199s, Total: 0.000394s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_94_density1.bsq - Parse: 0.000184s, Algo: 0.000174s, Total: 0.000358s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_94_density4.bsq - Parse: 0.000202s, Algo: 0.000203s, Total: 0.000405s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_95_density1.bsq - Parse: 0.000187s, Algo: 0.000178s, Total: 0.000365s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_95_density8.bsq - Parse: 0.000185s, Algo: 0.000195s, Total: 0.000380s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_96_density8.bsq - Parse: 0.000184s, Algo: 0.000193s, Total: 0.000377s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_96_density9.bsq - Parse: 0.000188s, Algo: 0.000194s, Total: 0.000382s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_97_density4.bsq - Parse: 0.000180s, Algo: 0.000194s, Total: 0.000374s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_97_density8.bsq - Parse: 0.000177s, Algo: 0.000201s, Total: 0.000378s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_98_density1.bsq - Parse: 0.000199s, Algo: 0.000164s, Total: 0.000363s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_98_density8.bsq - Parse: 0.000180s, Algo: 0.000195s, Total: 0.000375s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_99_density2.bsq - Parse: 0.000185s, Algo: 0.000180s, Total: 0.000365s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_100x100_99_density6.bsq - Parse: 0.000187s, Algo: 0.000190s, Total: 0.000377s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_1_density2.bsq - Parse: 0.017212s, Algo: 0.020859s, Total: 0.038071s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_1_density5.bsq - Parse: 0.016671s, Algo: 0.021663s, Total: 0.038334s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_10_density6.bsq - Parse: 0.016359s, Algo: 0.022151s, Total: 0.038510s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_10_density8.bsq - Parse: 0.017017s, Algo: 0.021543s, Total: 0.038560s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_100_density1.bsq - Parse: 0.016399s, Algo: 0.020139s, Total: 0.036538s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_100_density4.bsq - Parse: 0.016328s, Algo: 0.021131s, Total: 0.037459s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_11_density6.bsq - Parse: 0.016315s, Algo: 0.021517s, Total: 0.037832s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_11_density9.bsq - Parse: 0.016298s, Algo: 0.021666s, Total: 0.037964s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_12_density6.bsq - Parse: 0.016390s, Algo: 0.021341s, Total: 0.037731s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_12_density8.bsq - Parse: 0.016388s, Algo: 0.021555s, Total: 0.037943s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_13_density1.bsq - Parse: 0.016258s, Algo: 0.020098s, Total: 0.036356s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_13_density6.bsq - Parse: 0.016767s, Algo: 0.021419s, Total: 0.038186s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_14_density6.bsq - Parse: 0.016330s, Algo: 0.021332s, Total: 0.037662s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_14_density7.bsq - Parse: 0.016310s, Algo: 0.021238s, Total: 0.037548s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_15_density3.bsq - Parse: 0.016266s, Algo: 0.020896s, Total: 0.037162s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_15_density6.bsq - Parse: 0.016347s, Algo: 0.021454s, Total: 0.037801s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_16_density4.bsq - Parse: 0.016264s, Algo: 0.021036s, Total: 0.037300s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_16_density6.bsq - Parse: 0.016348s, Algo: 0.021509s, Total: 0.037857s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_17_density3.bsq - Parse: 0.016362s, Algo: 0.021178s, Total: 0.037540s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_18_density1.bsq - Parse: 0.016304s, Algo: 0.020199s, Total: 0.036503s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_18_density6.bsq - Parse: 0.016202s, Algo: 0.021500s, Total: 0.037702s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_19_density4.bsq - Parse: 0.016410s, Algo: 0.021450s, Total: 0.037860s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_19_density5.bsq - Parse: 0.016275s, Algo: 0.021385s, Total: 0.037660s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_2_density4.bsq - Parse: 0.016260s, Algo: 0.021073s, Total: 0.037333s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_2_density7.bsq - Parse: 0.016513s, Algo: 0.020861s, Total: 0.037374s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_20_density1.bsq - Parse: 0.016252s, Algo: 0.020260s, Total: 0.036512s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_20_density6.bsq - Parse: 0.016367s, Algo: 0.021318s, Total: 0.037685s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_21_density2.bsq - Parse: 0.016233s, Algo: 0.020719s, Total: 0.036952s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_21_density9.bsq - Parse: 0.016226s, Algo: 0.021718s, Total: 0.037944s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_22_density3.bsq - Parse: 0.016354s, Algo: 0.021262s, Total: 0.037616s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_22_density4.bsq - Parse: 0.016350s, Algo: 0.021240s, Total: 0.037590s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_23_density1.bsq - Parse: 0.016210s, Algo: 0.020059s, Total: 0.036269s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_23_density9.bsq - Parse: 0.016464s, Algo: 0.021665s, Total: 0.038129s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_24_density7.bsq - Parse: 0.016465s, Algo: 0.021618s, Total: 0.038083s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_24_density9.bsq - Parse: 0.016286s, Algo: 0.021681s, Total: 0.037967s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_25_density1.bsq - Parse: 0.016360s, Algo: 0.020193s, Total: 0.036553s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_25_density3.bsq - Parse: 0.016325s, Algo: 0.021364s, Total: 0.037689s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_26_density5.bsq - Parse: 0.016647s, Algo: 0.020484s, Total: 0.037131s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_26_density7.bsq - Parse: 0.016492s, Algo: 0.021284s, Total: 0.037776s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_27_density1.bsq - Parse: 0.016414s, Algo: 0.020313s, Total: 0.036727s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_27_density4.bsq - Parse: 0.016361s, Algo: 0.021260s, Total: 0.037621s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_28_density1.bsq - Parse: 0.016253s, Algo: 0.020729s, Total: 0.036982s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_28_density2.bsq - Parse: 0.016232s, Algo: 0.021079s, Total: 0.037311s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_29_density2.bsq - Parse: 0.016416s, Algo: 0.021202s, Total: 0.037618s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_29_density5.bsq - Parse: 0.016376s, Algo: 0.021838s, Total: 0.038214s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_3_density3.bsq - Parse: 0.016424s, Algo: 0.021327s, Total: 0.037751s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_3_density6.bsq - Parse: 0.016437s, Algo: 0.021341s, Total: 0.037778s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_30_density5.bsq - Parse: 0.016300s, Algo: 0.021387s, Total: 0.037687s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_30_density7.bsq - Parse: 0.016371s, Algo: 0.021521s, Total: 0.037892s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_31_density3.bsq - Parse: 0.016423s, Algo: 0.021431s, Total: 0.037854s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_31_density7.bsq - Parse: 0.016594s, Algo: 0.021412s, Total: 0.038006s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_32_density3.bsq - Parse: 0.016226s, Algo: 0.021070s, Total: 0.037296s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_33_density2.bsq - Parse: 0.016369s, Algo: 0.020741s, Total: 0.037110s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_33_density7.bsq - Parse: 0.016321s, Algo: 0.021646s, Total: 0.037967s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_34_density1.bsq - Parse: 0.016279s, Algo: 0.020398s, Total: 0.036677s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_34_density3.bsq - Parse: 0.016273s, Algo: 0.021196s, Total: 0.037469s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_35_density4.bsq - Parse: 0.016291s, Algo: 0.021561s, Total: 0.037852s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_35_density8.bsq - Parse: 0.016280s, Algo: 0.021647s, Total: 0.037927s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_36_density3.bsq - Parse: 0.016319s, Algo: 0.021071s, Total: 0.037390s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_36_density4.bsq - Parse: 0.016413s, Algo: 0.021048s, Total: 0.037461s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_37_density1.bsq - Parse: 0.016342s, Algo: 0.020194s, Total: 0.036536s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_37_density3.bsq - Parse: 0.016436s, Algo: 0.021039s, Total: 0.037475s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_38_density1.bsq - Parse: 0.016725s, Algo: 0.020761s, Total: 0.037486s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_38_density9.bsq - Parse: 0.016880s, Algo: 0.021673s, Total: 0.038553s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_39_density3.bsq - Parse: 0.017139s, Algo: 0.022725s, Total: 0.039864s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_39_density4.bsq - Parse: 0.016270s, Algo: 0.021588s, Total: 0.037858s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_4_density3.bsq - Parse: 0.016397s, Algo: 0.021230s, Total: 0.037627s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_4_density7.bsq - Parse: 0.016308s, Algo: 0.021773s, Total: 0.038081s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_40_density4.bsq - Parse: 0.016169s, Algo: 0.021324s, Total: 0.037493s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_40_density7.bsq - Parse: 0.016320s, Algo: 0.021712s, Total: 0.038032s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_41_density5.bsq - Parse: 0.016367s, Algo: 0.021150s, Total: 0.037517s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_41_density6.bsq - Parse: 0.016413s, Algo: 0.021580s, Total: 0.037993s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_42_density6.bsq - Parse: 0.016280s, Algo: 0.021451s, Total: 0.037731s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_42_density9.bsq - Parse: 0.016451s, Algo: 0.021615s, Total: 0.038066s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_43_density7.bsq - Parse: 0.016303s, Algo: 0.021565s, Total: 0.037868s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_43_density8.bsq - Parse: 0.016348s, Algo: 0.022042s, Total: 0.038390s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_44_density2.bsq - Parse: 0.016835s, Algo: 0.020884s, Total: 0.037719s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_44_density5.bsq - Parse: 0.016285s, Algo: 0.021185s, Total: 0.037470s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_45_density4.bsq - Parse: 0.016297s, Algo: 0.021365s, Total: 0.037662s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_45_density9.bsq - Parse: 0.016354s, Algo: 0.021722s, Total: 0.038076s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_46_density7.bsq - Parse: 0.016412s, Algo: 0.021343s, Total: 0.037755s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_46_density9.bsq - Parse: 0.016282s, Algo: 0.021669s, Total: 0.037951s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_47_density7.bsq - Parse: 0.016274s, Algo: 0.021346s, Total: 0.037620s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_48_density3.bsq - Parse: 0.016419s, Algo: 0.021126s, Total: 0.037545s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_49_density9.bsq - Parse: 0.016321s, Algo: 0.021896s, Total: 0.038217s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_5_density4.bsq - Parse: 0.016333s, Algo: 0.021356s, Total: 0.037689s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_5_density7.bsq - Parse: 0.016303s, Algo: 0.021698s, Total: 0.038001s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_50_density2.bsq - Parse: 0.016301s, Algo: 0.021150s, Total: 0.037451s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_50_density6.bsq - Parse: 0.016289s, Algo: 0.021585s, Total: 0.037874s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_51_density4.bsq - Parse: 0.016640s, Algo: 0.021560s, Total: 0.038200s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_51_density8.bsq - Parse: 0.016279s, Algo: 0.021724s, Total: 0.038003s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_52_density4.bsq - Parse: 0.016306s, Algo: 0.021192s, Total: 0.037498s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_52_density5.bsq - Parse: 0.016570s, Algo: 0.021753s, Total: 0.038323s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_53_density7.bsq - Parse: 0.016457s, Algo: 0.021272s, Total: 0.037729s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_54_density5.bsq - Parse: 0.016255s, Algo: 0.021574s, Total: 0.037829s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_55_density2.bsq - Parse: 0.016641s, Algo: 0.020795s, Total: 0.037436s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_56_density3.bsq - Parse: 0.016737s, Algo: 0.021095s, Total: 0.037832s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_56_density8.bsq - Parse: 0.016221s, Algo: 0.021290s, Total: 0.037511s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_57_density6.bsq - Parse: 0.016378s, Algo: 0.021386s, Total: 0.037764s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_57_density7.bsq - Parse: 0.016339s, Algo: 0.021726s, Total: 0.038065s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_58_density8.bsq - Parse: 0.016357s, Algo: 0.021736s, Total: 0.038093s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_58_density9.bsq - Parse: 0.016520s, Algo: 0.021684s, Total: 0.038204s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_59_density2.bsq - Parse: 0.016533s, Algo: 0.021331s, Total: 0.037864s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_59_density7.bsq - Parse: 0.016338s, Algo: 0.021573s, Total: 0.037911s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_6_density3.bsq - Parse: 0.016339s, Algo: 0.021331s, Total: 0.037670s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_6_density5.bsq - Parse: 0.016292s, Algo: 0.021681s, Total: 0.037973s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_60_density6.bsq - Parse: 0.016271s, Algo: 0.021613s, Total: 0.037884s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_60_density9.bsq - Parse: 0.016389s, Algo: 0.021655s, Total: 0.038044s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_61_density4.bsq - Parse: 0.016407s, Algo: 0.021450s, Total: 0.037857s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_61_density5.bsq - Parse: 0.016446s, Algo: 0.021552s, Total: 0.037998s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_62_density2.bsq - Parse: 0.016249s, Algo: 0.020944s, Total: 0.037193s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_62_density7.bsq - Parse: 0.016269s, Algo: 0.021511s, Total: 0.037780s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_63_density2.bsq - Parse: 0.016448s, Algo: 0.020686s, Total: 0.037134s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_63_density7.bsq - Parse: 0.016490s, Algo: 0.021835s, Total: 0.038325s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_64_density3.bsq - Parse: 0.016245s, Algo: 0.021082s, Total: 0.037327s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_64_density7.bsq - Parse: 0.016671s, Algo: 0.021427s, Total: 0.038098s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_65_density3.bsq - Parse: 0.016343s, Algo: 0.021016s, Total: 0.037359s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_65_density5.bsq - Parse: 0.016332s, Algo: 0.021491s, Total: 0.037823s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_66_density7.bsq - Parse: 0.016161s, Algo: 0.021427s, Total: 0.037588s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_66_density9.bsq - Parse: 0.016177s, Algo: 0.021626s, Total: 0.037803s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_67_density1.bsq - Parse: 0.016312s, Algo: 0.020281s, Total: 0.036593s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_67_density8.bsq - Parse: 0.016314s, Algo: 0.021056s, Total: 0.037370s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_68_density4.bsq - Parse: 0.016317s, Algo: 0.021329s, Total: 0.037646s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_68_density9.bsq - Parse: 0.016326s, Algo: 0.021834s, Total: 0.038160s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_69_density3.bsq - Parse: 0.016222s, Algo: 0.021006s, Total: 0.037228s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_69_density5.bsq - Parse: 0.016388s, Algo: 0.022145s, Total: 0.038533s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_7_density1.bsq - Parse: 0.016383s, Algo: 0.020297s, Total: 0.036680s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_7_density3.bsq - Parse: 0.016342s, Algo: 0.021535s, Total: 0.037877s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_70_density9.bsq - Parse: 0.016519s, Algo: 0.021507s, Total: 0.038026s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_71_density6.bsq - Parse: 0.016367s, Algo: 0.021489s, Total: 0.037856s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_71_density7.bsq - Parse: 0.016399s, Algo: 0.021817s, Total: 0.038216s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_72_density4.bsq - Parse: 0.016324s, Algo: 0.021088s, Total: 0.037412s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_72_density9.bsq - Parse: 0.016379s, Algo: 0.021615s, Total: 0.037994s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_73_density3.bsq - Parse: 0.016379s, Algo: 0.021213s, Total: 0.037592s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_73_density6.bsq - Parse: 0.016388s, Algo: 0.021627s, Total: 0.038015s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_74_density6.bsq - Parse: 0.016271s, Algo: 0.021359s, Total: 0.037630s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_75_density1.bsq - Parse: 0.016295s, Algo: 0.020697s, Total: 0.036992s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_75_density9.bsq - Parse: 0.016275s, Algo: 0.022058s, Total: 0.038333s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_76_density5.bsq - Parse: 0.016302s, Algo: 0.021568s, Total: 0.037870s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_76_density9.bsq - Parse: 0.016407s, Algo: 0.022626s, Total: 0.039033s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_77_density4.bsq - Parse: 0.016341s, Algo: 0.021071s, Total: 0.037412s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_77_density6.bsq - Parse: 0.016517s, Algo: 0.021273s, Total: 0.037790s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_78_density7.bsq - Parse: 0.016263s, Algo: 0.021652s, Total: 0.037915s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_78_density8.bsq - Parse: 0.016302s, Algo: 0.021291s, Total: 0.037593s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_79_density3.bsq - Parse: 0.016263s, Algo: 0.021112s, Total: 0.037375s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_8_density2.bsq - Parse: 0.016290s, Algo: 0.021046s, Total: 0.037336s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_8_density9.bsq - Parse: 0.016288s, Algo: 0.021936s, Total: 0.038224s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_80_density1.bsq - Parse: 0.016275s, Algo: 0.020371s, Total: 0.036646s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_80_density2.bsq - Parse: 0.016262s, Algo: 0.020849s, Total: 0.037111s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_81_density2.bsq - Parse: 0.016249s, Algo: 0.020982s, Total: 0.037231s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_81_density7.bsq - Parse: 0.016274s, Algo: 0.022038s, Total: 0.038312s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_82_density2.bsq - Parse: 0.016259s, Algo: 0.020863s, Total: 0.037122s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_83_density5.bsq - Parse: 0.016408s, Algo: 0.021625s, Total: 0.038033s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_84_density3.bsq - Parse: 0.016400s, Algo: 0.021194s, Total: 0.037594s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_84_density4.bsq - Parse: 0.016597s, Algo: 0.020929s, Total: 0.037526s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_85_density4.bsq - Parse: 0.016221s, Algo: 0.021149s, Total: 0.037370s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_85_density5.bsq - Parse: 0.016321s, Algo: 0.020876s, Total: 0.037197s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_86_density4.bsq - Parse: 0.016421s, Algo: 0.021020s, Total: 0.037441s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_86_density6.bsq - Parse: 0.016275s, Algo: 0.021534s, Total: 0.037809s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_87_density1.bsq - Parse: 0.016265s, Algo: 0.020484s, Total: 0.036749s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_87_density4.bsq - Parse: 0.016299s, Algo: 0.021599s, Total: 0.037898s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_88_density4.bsq - Parse: 0.016411s, Algo: 0.021084s, Total: 0.037495s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_88_density6.bsq - Parse: 0.016376s, Algo: 0.021510s, Total: 0.037886s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_89_density2.bsq - Parse: 0.016361s, Algo: 0.020865s, Total: 0.037226s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_89_density8.bsq - Parse: 0.016303s, Algo: 0.021882s, Total: 0.038185s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_9_density1.bsq - Parse: 0.016308s, Algo: 0.020623s, Total: 0.036931s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_9_density2.bsq - Parse: 0.016398s, Algo: 0.021015s, Total: 0.037413s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_90_density5.bsq - Parse: 0.016325s, Algo: 0.020541s, Total: 0.036866s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_90_density7.bsq - Parse: 0.016263s, Algo: 0.021787s, Total: 0.038050s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_91_density3.bsq - Parse: 0.016333s, Algo: 0.022339s, Total: 0.038672s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_91_density9.bsq - Parse: 0.016333s, Algo: 0.021785s, Total: 0.038118s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_92_density2.bsq - Parse: 0.016384s, Algo: 0.020738s, Total: 0.037122s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_92_density9.bsq - Parse: 0.016350s, Algo: 0.021910s, Total: 0.038260s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_93_density3.bsq - Parse: 0.016252s, Algo: 0.021352s, Total: 0.037604s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_93_density5.bsq - Parse: 0.016303s, Algo: 0.021062s, Total: 0.037365s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_94_density3.bsq - Parse: 0.016443s, Algo: 0.021119s, Total: 0.037562s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_94_density8.bsq - Parse: 0.016295s, Algo: 0.021934s, Total: 0.038229s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_95_density3.bsq - Parse: 0.016279s, Algo: 0.021047s, Total: 0.037326s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_95_density8.bsq - Parse: 0.016367s, Algo: 0.021622s, Total: 0.037989s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_96_density6.bsq - Parse: 0.016368s, Algo: 0.021230s, Total: 0.037598s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_96_density7.bsq - Parse: 0.016700s, Algo: 0.021208s, Total: 0.037908s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_97_density7.bsq - Parse: 0.016262s, Algo: 0.021886s, Total: 0.038148s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_97_density9.bsq - Parse: 0.016262s, Algo: 0.021549s, Total: 0.037811s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_98_density5.bsq - Parse: 0.016397s, Algo: 0.021389s, Total: 0.037786s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_98_density7.bsq - Parse: 0.016593s, Algo: 0.021783s, Total: 0.038376s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_99_density3.bsq - Parse: 0.016415s, Algo: 0.021303s, Total: 0.037718s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+BENCHMARK: map_1000x1000_99_density7.bsq - Parse: 0.016350s, Algo: 0.021412s, Total: 0.037762s
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv
+Résultats du benchmark sauvegardés dans benchmark_results.csv

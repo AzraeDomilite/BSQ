@@ -1,0 +1,4 @@
+# BSQ Benchmark Results
+# Format: filename,map_width,map_height,map_size,parse_time(s),algo_time(s),total_time(s)
+filename,map_width,map_height,map_size,parse_time,algo_time,total_time
+map_5000x5000_99_density8.bsq,5000,5000,25000000,0.396240,0.558901,0.955141

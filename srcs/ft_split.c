@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_split.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: baschnit <baschnit@student.42lausanne.ch>  +#+  +:+       +#+        */
+/*   By: blucken <blucken@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/25 11:12:54 by baschnit          #+#    #+#             */
-/*   Updated: 2024/07/09 20:14:16 by baschnit         ###   ########.fr       */
+/*   Updated: 2025/07/16 16:29:03 by blucken          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -45,9 +45,7 @@ void	set_splits(char **tab, char *str, char *charset)
 {
 	char	*i;
 	int		len;
-	int		count;
 
-	count = 0;
 	i = str - 1;
 	while ((*++i))
 	{
@@ -57,7 +55,6 @@ void	set_splits(char **tab, char *str, char *charset)
 			*tab = malloc((len + 1) * sizeof (char));
 			if (*tab)
 				ft_strncpy(*tab, i, len);
-			count++;
 			tab++;
 		}
 	}

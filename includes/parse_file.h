@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   parse_file.h                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: baschnit <baschnit@student.42lausanne.ch>  +#+  +:+       +#+        */
+/*   By: blucken <blucken@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/09 12:08:07 by baschnit          #+#    #+#             */
-/*   Updated: 2024/07/09 12:13:43 by baschnit         ###   ########.fr       */
+/*   Updated: 2025/07/16 16:29:03 by blucken          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,5 +14,6 @@
 # define PARSE_FILE_H
 
 int	read_task(int fd, t_map *task, t_brush *charset);
+int	validate_map(t_map *task);
 
 #endif

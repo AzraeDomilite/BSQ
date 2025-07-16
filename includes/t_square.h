@@ -3,17 +3,18 @@
 /*                                                        :::      ::::::::   */
 /*   t_square.h                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: baschnit <baschnit@student.42lausanne.ch>  +#+  +:+       +#+        */
+/*   By: blucken <blucken@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/07/08 15:38:04 by baschnit          #+#    #+#             */
-/*   Updated: 2024/07/09 19:29:20 by baschnit         ###   ########.fr       */
+/*   Created: 2025/07/16 17:05:55 by blucken           #+#    #+#             */
+/*   Updated: 2025/07/16 17:12:59 by blucken          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef T_SQUARE_H
 # define T_SQUARE_H
 
-typedef struct s_square {
+typedef struct s_square
+{
 	int	x;
 	int	y;
 	int	len;	

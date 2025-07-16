@@ -9,14 +9,13 @@ sizes=(
     "100x100:100:100"
     "1000x1000:1000:1000"
     "5000x5000:5000:5000"
-    "100000x100000:100000:100000"
 )
 
 # Créer le dossier principal pour les maps
 mkdir -p maps
 
 # Chemin vers le script Perl
-PERL_SCRIPT="bsq2/mapgen.pl"
+PERL_SCRIPT="mapgen.pl"
 
 # Vérifier que le script Perl existe
 if [ ! -f "$PERL_SCRIPT" ]; then

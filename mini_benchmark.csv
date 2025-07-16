@@ -1,0 +1,4 @@
+filename,map_width,map_height,map_size,parse_time,algo_time,total_time
+map_100x100_1_density4.bsq,100,100,10000,0.000197,0.000212,0.000409
+map_10x10_1_density5.bsq,10,10,100,0.000006,0.000003,0.000009
+map_10x10_2_density7.bsq,10,10,100,0.000004,0.000003,0.000007
